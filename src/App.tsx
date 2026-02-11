@@ -58,7 +58,7 @@ function App() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="text-4xl font-bold text-gray-900 mb-2">50K+</div>
-              <div className="text-gray-600">Active users</div>
+              <div className="text-gray-600">Active Countries</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-gray-900 mb-2">99.9%</div>
